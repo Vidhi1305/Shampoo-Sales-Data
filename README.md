@@ -1,1 +1,1 @@
-This Sale Dashboard is an overview of the overall comparison of shampoo's sales, profits and quantity in 2020 and 2021. Further, there is a comparison between the two brands of shampoo. And also, if we give more discount on the actual price, how will it react? Which price point gross margin is high, how many weeks that price is active?
+
